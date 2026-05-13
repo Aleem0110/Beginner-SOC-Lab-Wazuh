@@ -60,9 +60,6 @@ Learning SOC operations, log monitoring, alerting, and threat detection.
 ### Agent Active Status
 ![Agent Active](Screenshots/02-agent-active.png)
 
-### Wazuh Installation Finish
-![Installation Finish](10-wazuh_installation-finish.jpg)
-
 ### Failed Login Detection
 ![Failed Login](Screenshots/failed-login-detection.png)
 
