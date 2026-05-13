@@ -54,6 +54,9 @@ Learning SOC operations, log monitoring, alerting, and threat detection.
 ### Wazuh Dashboard
 ![Dashboard](Screenshots/12-wazuh-Dashboard.png)
 
+### Wazuh installation Finish
+![Installation Finish](Screenshots/10-wazuh_installation-finish.png)
+
 ### Agent Deployment Command
 ![Deployment Command](Screenshots/03-agent-deployment-command.png)
 
