@@ -61,7 +61,7 @@ Learning SOC operations, log monitoring, alerting, and threat detection.
 ![Agent Active](Screenshots/02-agent-active.png)
 
 ### Failed Login Detection
-![Failed Login](Screenshots/failed-login-detection.png)
+![Failed Login](Screenshots/05-failed-login-detection.png)
 
 ### Malware Detection Alert
 ![Malware Detection](Screenshots/defender-malware-detected.png)
