@@ -1,0 +1,10 @@
+Project: Beginner SOC Lab using Wazuh SIEM
+
+Components:
+-Windows 11 Host
+-Ubuntu Server (Wazuh SIEM)
+-Kali Linux Attacker VM
+-VirtualBox Lab Environment
+
+Purpose:
+Learning SOC operations, log monitoring, alerting, malware detection, and threat detection.
