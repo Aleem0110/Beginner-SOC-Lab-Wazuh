@@ -58,7 +58,7 @@ Learning SOC operations, log monitoring, alerting, and threat detection.
 ![Deployment Command](Screenshots/03-agent-deployment-command.png)
 
 ### Agent Active Status
-![Agent Active](Screenshots/agent-active.png)
+![Agent Active](Screenshots/02-agent-active.png)
 
 ### Wazuh Installation Finish
 ![Installation Finish](Screenshots/10-wazuh_installation-finish.jpg)
