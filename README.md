@@ -64,7 +64,7 @@ Learning SOC operations, log monitoring, alerting, and threat detection.
 ![Failed Login](Screenshots/05-failed-login-detection.png)
 
 ### Malware Detection Alert
-![Malware Detection](Screenshots/defender-malware-detected.png)
+![Malware Detection](Screenshots/04-defender-malware-detected.png)
 
 ### PowerShell Defender Logs
 ![Defender Logs](Screenshots/08-Powershell-defender-logs.png)
