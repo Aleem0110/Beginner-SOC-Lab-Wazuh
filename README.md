@@ -73,4 +73,4 @@ Learning SOC operations, log monitoring, alerting, and threat detection.
 ![OSSEC Config](Screenshots/07-ossec-config.png)
 
 ### Project Notes
-![Notes](Screenshots/Notes.png)
+![Notes](Screenshots/06-Notes.png)
